@@ -20,8 +20,9 @@
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/><br/>
+</div>
 
-### Apaixonado por desenvolvimento de sistemas
+<br/>
+<p style="font-size: 15pt; color: white">Apaixonado por desenvolvimento de sistemas</p>
 <hr/>
-<p style="font-size: 12pt; color: #CCC">Atualmente, estou em constante busca por conhecimento, preparando-me <br/>para dar os primeiros passos como Desenvolvedor Back-End Júnior.</p>
+<p style="font-size: 12pt; color: #AAA">Atualmente, estou em constante busca por conhecimento, preparando-me para dar os primeiros passos como Desenvolvedor Back-End Júnior.</p>
