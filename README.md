@@ -5,8 +5,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16991753984)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alyssonojanuario@gmail.com)
 
-![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=devJanuario&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJanuario&layout=compact)
 
 ## Tecnologias que uso no dia a dia
@@ -24,8 +22,6 @@
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/><br/>
 
-<div style="font-size: 15pt; color: white;">
-    <p>Apaixonado por desenvolvimento de sistemas</p>
-    <hr/>
-    <p style="font-size: 12pt; color: #CCC">Atualmente, estou em constante busca por conhecimento, preparando-me para dar os primeiros passos como Desenvolvedor Back-End Júnior.</p>
-</div>
+### Apaixonado por desenvolvimento de sistemas
+<hr/>
+<p style="font-size: 12pt; color: #CCC">Atualmente, estou em constante busca por conhecimento, preparando-me <br/>para dar os primeiros passos como Desenvolvedor Back-End Júnior.</p>
